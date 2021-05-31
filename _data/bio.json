@@ -6,7 +6,7 @@
     "email": "sebastian.riedel@ultimanet.de",
     "phone": "",
     "website": "https://sebastianriedel.github.io",
-    "summary": "Computer scientist by training. +6 years student- and professional-level experience as research and software engineer in robotics, machine perception and machine learning.",
+    "summary": "Computer scientist by training. +8 years student- and professional-level experience as research and software engineer in robotics, machine perception and machine learning.",
     "location": {
       "address": "",
       "postalCode": "80809",
@@ -65,6 +65,9 @@
         "Bash",
         "Matlab/Simulink",
         "ROS",
+        "DDS",
+        "Trac-IK",
+        "FCL",
         "PCL",
         "OpenCV",
         "VTK",
@@ -123,11 +126,28 @@
   ],
   "work": [
     {
+      "company": "Agile Robots AG",
+      "position": "Senior Software Engineer, Robotics",
+      "website": "https://www.agile-robots.com/",
+      "startDate": "2019-07",
+      "endDate": "Present",
+      "summary": "Robotic Full Stack Developer:",
+      "highlights": [
+        "software integration and contribution to various levels of our software stack",
+        "kino-dynamic model generation pipeline (Symoro)",
+        "IKfast solver generation pipeline",
+        "pose based visual servoing (PBVS) module (OpenCV) with cart. velocity controller (libfranka)",
+        "transforms library (similar to ROS tf)",
+        "integration of various OSS projects (fcl, realtime_urdf_filter, Trac-IK)",
+        "code generation for exposing system capabilities (e.g. middleware interfaces) to high-level programming tools"
+      ]
+    },    
+    {
       "company": "German Aerospace Center (DLR), Institute for Robotics and Mechatronics",
       "position": "Research Engineer (Robotics)",
       "website": "https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017",
       "startDate": "2015-05",
-      "endDate": "Present",
+      "endDate": "2019-06",
       "summary": "Research and software engineering work on various topics, projects and platforms:",
       "highlights": [
         "software modules for mobile manipulators (robotic platforms: AIMM, LRU)",
